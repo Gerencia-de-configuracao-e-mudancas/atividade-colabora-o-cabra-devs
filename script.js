@@ -4,6 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
   const mensagem = document.getElementById("mensagem");
 
   btn.addEventListener("click", function () {
-    mensagem.textContent = "Olá! O JavaScript está funcionando corretamente.";
+    mensagem.textContent = "Pela paz e pela Ordem CABRA DEVS !";
   });
 });
